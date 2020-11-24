@@ -1,7 +1,7 @@
 
 {
-  "name": "Manager-Bot-English",
-  "description": "Telegram's sassiest group manager. Modular Telegram group management bot!",
+  "name": "Munna-Manager-bot",
+  "description": "New Telegram's Multi-Functional group manager bot!",
   "keywords": [
     "telegram",
     "best",
@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "https://github.com/FayasKKD/Manager-Bot-English",
+  "repository": "https://github.com/luthfiupb5/manager-bot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
@@ -21,19 +21,19 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1467769730"
+      "value": "1349558917"
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "FayasKKD"
+      "value": "LBassamBot"
     },
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
       "value": "ANYTHING"
     },
     "URL": {
-      "description": "The Heroku App URL similar to https://<appname>.herokuapp.com/",
-      "value": ""
+      "description": "The Heroku App URL similar to ",
+      "value": "https://munnamanager.herokuapp.com/"
     },
     "MESSAGE_DUMP": {
       "description": "optional: a chat where your replied saved messages are stored, to stop people deleting their old",
@@ -53,7 +53,7 @@
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
-      "value": "https://github.com/FayasKKD/Donate"
+      "value": "https://github.com/luthfiupb5/Donate"
     },
     "PORT": {
       "description": "Port to use for your webhooks",

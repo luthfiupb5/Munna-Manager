@@ -25,3 +25,5 @@ are based off of. It allows the bot to work fine with the LOAD and NO_LOAD confi
 should put them in different dispatcher groups.
 
 Might seem complicated, but it'll make sense when you get into it. Feel free to ask me for a hand/advice!
+### Luthfi UPB
+[![Telegram Account](https://img.shields.io/badge/Telegram-Account-30302f?style=flat&logo=Telegram)](https://t.me/LBassamBot) 

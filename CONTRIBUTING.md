@@ -26,4 +26,4 @@ should put them in different dispatcher groups.
 
 Might seem complicated, but it'll make sense when you get into it. Feel free to ask me for a hand/advice!
 ### Luthfi UPB
-[![Telegram Account](https://img.shields.io/badge/Telegram-Account-30302f?style=flat&logo=Telegram)](https://t.me/LBassamBot) 
+[![Instagram Account](https://img.shields.io/badge/Instagram-Account-30302f?style=flat&logo=Instagram)](https://www.instagram.com/_.____luthfi.__/) [![Telegram Account](https://img.shields.io/badge/Telegram-Account-30302f?style=flat&logo=Telegram)](https://t.me/LBassamBot) 
